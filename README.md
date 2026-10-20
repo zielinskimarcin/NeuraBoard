@@ -2,7 +2,7 @@
 
 An iPad whiteboard tutor that reads handwritten problems and writes its explanation back onto the canvas.
 
-I worked on NeuraBoard as part of a four-person hackathon team. My work focused on teacher analytics, reviewing student answers, assessment synchronization, onboarding and the Xcode build/signing setup.
+NeuraBoard was an existing project by Darius Farcaș and Filip Lukasiewicz. I joined them as part of a four-person hackathon team to add new features. My work focused on teacher analytics, reviewing student answers, assessment synchronization, onboarding and the Xcode build/signing setup.
 
 <a href="assets/neuraboard-demo.gif"><img src="assets/neuraboard-demo.gif" alt="NeuraBoard reading a handwritten integral and writing a worked solution onto the whiteboard, step by step" width="440"></a>
 
@@ -60,7 +60,7 @@ There are limits to the current data flow. The local cache retains the latest re
 - **Darius Farcaș** ([Dariusplayer09](https://github.com/Dariusplayer09)): learner guidance, AI tutor flows, Solve Mode and voice integration.
 - **Lucas Pimentel** ([LucasPilla](https://github.com/LucasPilla)): exam simulation views and dashboard/classroom UI.
 
-We used Claude Code with an agent harness to generate the initial scaffold from architecture prompts we prepared. The team then developed and integrated the app's features during the hackathon.
+The team used Claude Code with an agent harness during development. My contribution was to extend the existing app during the hackathon; I did not create the original codebase.
 
 ## Prototype status
 
