@@ -1,0 +1,7 @@
+# Public showcase: only these reviewed files may be added.
+*
+!/.gitignore
+!/README.md
+!/assets/
+/assets/*
+!/assets/neuraboard-demo.gif
